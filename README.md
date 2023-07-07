@@ -1,6 +1,6 @@
 # Taller de Ingeniería Biomédica contra el fracaso escolar
 
-### **Descripción del proyecto: 📚🧒**
+### **Descripción del proyecto: **
   - Temática: Impacto social, educación inclusiva, tecnología  e Ingeniería Biomédica.
 
 | <img src="https://www.nascia.com/wp-content/uploads/2019/10/la-mente.jpg" alt="Biosensor Cutáneo" width="700" height="auto"> | Realización de un taller de Ingeniería Biomédica en el Centro IESO HaréVolar contra el fracaso escolar. Se realacionaron los conocimientos adquiridos por los alumnos en las asignaturas cursadas con los requeridos al aplicar la tecnología aplicada al ámbito médico. |
